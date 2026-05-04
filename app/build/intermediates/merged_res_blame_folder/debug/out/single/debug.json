@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/layout_fragment_charts.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/layout/fragment_charts.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_chart.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/layout_item_expense.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/layout_activity_add_edit_expense.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/layout/activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_edit.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_delete.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/layout_fragment_home.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_add.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_home.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_circle_dot.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/circle_dot.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_spinner_background.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-merged_res-47:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.expensetracker.app-main-49:/drawable/ic_arrow_right.xml"
+    }
+]

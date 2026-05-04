@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-46:/layout/fragment_charts.xml",
+        "source": "com.example.expensetracker.app-main-49:/layout/fragment_charts.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.expensetracker.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-46:/layout/item_expense.xml",
+        "source": "com.example.expensetracker.app-main-49:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-46:/layout/activity_add_edit_expense.xml",
+        "source": "com.example.expensetracker.app-main-49:/layout/activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.example.expensetracker.app-main-49:/layout/fragment_home.xml"
+    }
+]
