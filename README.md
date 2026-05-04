@@ -4,8 +4,7 @@ An Android application to track daily expenses with visual analytics,
 built using Java and Android Studio.
 
 ## 📱 Screenshots
-<img width="256" height="566" alt="PET 1" src="https://github.com/user-attachments/assets/31b7cef7-50bc-443e-b2cf-30bdce10c9b8" />
-<img width="259" height="576" alt="PET 2" src="https://github.com/user-attachments/assets/b6891a3c-134e-499a-98f7-8b975d67222b" />
+<img width="256" height="566" alt="PET 1" src="https://github.com/user-attachments/assets/31b7cef7-50bc-443e-b2cf-30bdce10c9b8" /> <img width="259" height="576" alt="PET 2" src="https://github.com/user-attachments/assets/b6891a3c-134e-499a-98f7-8b975d67222b" />
 <img width="263" height="569" alt="PET  3" src="https://github.com/user-attachments/assets/19fc8dd7-2802-41ce-8b64-1e6b055c0dc2" />
 
 ## ✨ Features
